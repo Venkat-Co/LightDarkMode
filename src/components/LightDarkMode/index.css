@@ -1,0 +1,67 @@
+/* Write your CSS here */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.main {
+  width: 450px;
+  height: 200px;
+  border-radius: 10px;
+  border-width: 0px;
+  background-color: #000000;
+  background-size: cover;
+  padding: 40px;
+  text-align: center;
+}
+
+.card {
+  height: 200px;
+  width: 450px;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: #000000;
+  border-style: solid;
+  background-color: white;
+  background-size: cover;
+  padding: 40px;
+  text-align: center;
+}
+
+.heading {
+  color: white;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: bold;
+}
+.heading1 {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.btn {
+  color: #000000;
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  border-width: 0px;
+  background-color: white;
+}
+.btn1 {
+  color: #000000;
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #000000;
+  border-style: solid;
+  background-color: white;
+}
